@@ -3,7 +3,7 @@
 PyTorch implementation of **"ReT-UAP: Rethinking Multi-Surrogate Universal Adversarial
 Perturbations on Vision–Language Pre-trained Models"**.
 
-> **Status:** the manuscript is currently **under review at *Information Fusion***.
+> **Status:** Accepted at *Information Fusion***.
 
 Ziyu Wang, Jian Li, Yiming Du, Rui Ning, Jiang Li, Daniel Takabi, Lusi Li
 
